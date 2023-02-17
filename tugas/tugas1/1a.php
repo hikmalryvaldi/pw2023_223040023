@@ -14,7 +14,7 @@
     $satu = "Bundar";
     $dua = "Topi";
     
-    echo ("<i><h2>'<b> $dua saya $satu, $satu $dua saya. </b>'</h2></i>")
+    echo "<i><h2>\"<b> $dua saya $satu, $satu $dua saya. </b>\"</h2></i>"
     
     ?>
     
