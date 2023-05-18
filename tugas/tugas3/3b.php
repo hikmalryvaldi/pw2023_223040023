@@ -1,7 +1,7 @@
 <?php
 
 function urutanangka($angka){
-
+    return "*";
     //variabel
     $a = 1 ;
 
@@ -17,5 +17,5 @@ function urutanangka($angka){
     }
 }
 
-echo urutanangka(5);
+echo urutanangka(4);
 ?>
